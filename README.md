@@ -5,3 +5,8 @@ A collaborative list of AI projects/ideas for government
 ## Projects
 
 ## Institutions
+
+## Tools
+
+## Ideas
+
